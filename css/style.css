@@ -25,7 +25,7 @@ h1 {
 }
 .pull-left {
 	float: left;
-	border: 10px;
+	border: 1px #000000;
 }
 .pull-right {
 	float: right;
