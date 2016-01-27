@@ -13,8 +13,7 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
-	background-color: black;
-	color: white;
+
 }
 
 h1 {
@@ -55,4 +54,8 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 
+}
+footer .container {
+	background-color: black;
+	color: white;
 }
