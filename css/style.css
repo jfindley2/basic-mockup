@@ -57,7 +57,7 @@ body { width: 100%;}
 
 }
 footer .container {
-	background-color: black;
+	background: black repeat-x;
 	color: white;
 	background-repeat: repeat-x;
 }
