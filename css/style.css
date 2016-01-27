@@ -20,6 +20,7 @@ h1 {
 }
 .clear {
 	clear: both;
+	background-color: aqua;
 }
 .pull-left {
 	float: left;
