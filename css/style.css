@@ -21,6 +21,7 @@ h1 {
 .clear {
 	clear: both;
 	background-color: aqua;
+	padding: 10px;
 }
 .pull-left {
 	float: left;
