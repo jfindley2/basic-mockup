@@ -13,9 +13,11 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
-	background-color: aqua;
 }
 
+h1 {
+	background-color: aqua;
+}
 .clear {
 	clear: both;
 }
